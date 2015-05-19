@@ -34,6 +34,7 @@ namespace Test01
             arr = ReadArray(n);
             WriteArray(arr, n);
             //hết phim
+            //chán chủa, thấy ghét
         }
     }
 }
