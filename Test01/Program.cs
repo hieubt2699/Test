@@ -33,6 +33,7 @@ namespace Test01
             n = int.Parse(Console.ReadLine());
             arr = ReadArray(n);
             WriteArray(arr, n);
+            //hết phim
         }
     }
 }
