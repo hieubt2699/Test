@@ -16,6 +16,7 @@ namespace Test01
                 a[i] = int.Parse(Console.ReadLine());
             }
             return a;
+			//5555555
         }
         static void WriteArray(int[] a, int n)
         {
@@ -24,11 +25,7 @@ namespace Test01
                 Console.Write(a[i] + "  ");
             }
             Console.WriteLine();
-<<<<<<< HEAD
 			//matthewtest
-=======
-			//abcdddd
->>>>>>> origin/master
         }
         static void Main(string[] args)
         {
