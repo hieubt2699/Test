@@ -24,6 +24,7 @@ namespace Test01
                 Console.Write(a[i] + "  ");
             }
             Console.WriteLine();
+			//abcdddd
         }
         static void Main(string[] args)
         {
