@@ -24,7 +24,11 @@ namespace Test01
                 Console.Write(a[i] + "  ");
             }
             Console.WriteLine();
+<<<<<<< HEAD
 			//matthewtest
+=======
+			//abcdddd
+>>>>>>> origin/master
         }
         static void Main(string[] args)
         {
